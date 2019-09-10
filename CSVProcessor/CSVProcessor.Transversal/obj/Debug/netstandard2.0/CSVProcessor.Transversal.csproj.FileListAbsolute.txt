@@ -1,0 +1,12 @@
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\bin\Debug\netstandard2.0\CSVProcessor.Transversal.deps.json
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\bin\Debug\netstandard2.0\CSVProcessor.Transversal.dll
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\obj\Debug\netstandard2.0\CSVProcessor.Transversal.csprojAssemblyReference.cache
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\obj\Debug\netstandard2.0\CSVProcessor.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\obj\Debug\netstandard2.0\CSVProcessor.Transversal.AssemblyInfoInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\obj\Debug\netstandard2.0\CSVProcessor.Transversal.AssemblyInfo.cs
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\bin\Debug\netstandard2.0\CSVProcessor.Transversal.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\bin\Debug\netstandard2.0\CSVProcessor.Domain.dll
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\bin\Debug\netstandard2.0\CSVProcessor.Domain.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\obj\Debug\netstandard2.0\CSVProcessor.Transversal.csproj.CopyComplete
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\obj\Debug\netstandard2.0\CSVProcessor.Transversal.dll
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.Transversal\obj\Debug\netstandard2.0\CSVProcessor.Transversal.pdb

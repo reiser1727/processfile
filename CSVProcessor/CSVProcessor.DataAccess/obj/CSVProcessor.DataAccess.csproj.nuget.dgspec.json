@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.DataAccess\\CSVProcessor.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.DataAccess\\CSVProcessor.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.DataAccess\\CSVProcessor.DataAccess.csproj",
+        "projectName": "CSVProcessor.DataAccess",
+        "projectPath": "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.DataAccess\\CSVProcessor.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\MANCON\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MANCON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sacyr-sf/_packaging/sacyr-orion@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.Domain\\CSVProcessor.Domain.csproj": {
+                "projectPath": "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.Domain\\CSVProcessor.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FastMember": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.Domain\\CSVProcessor.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.Domain\\CSVProcessor.Domain.csproj",
+        "projectName": "CSVProcessor.Domain",
+        "projectPath": "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.Domain\\CSVProcessor.Domain.csproj",
+        "packagesPath": "C:\\Users\\MANCON\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MANCON\\Downloads\\Personal\\PruebaAnalyticalways\\CSVProcessor\\CSVProcessor.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MANCON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sacyr-sf/_packaging/sacyr-orion@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "TinyCsvParser": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

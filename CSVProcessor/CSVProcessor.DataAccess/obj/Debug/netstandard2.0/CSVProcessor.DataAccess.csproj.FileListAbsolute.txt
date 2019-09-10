@@ -1,0 +1,12 @@
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\bin\Debug\netstandard2.0\CSVProcessor.DataAccess.deps.json
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\bin\Debug\netstandard2.0\CSVProcessor.DataAccess.dll
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\obj\Debug\netstandard2.0\CSVProcessor.DataAccess.csprojAssemblyReference.cache
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\obj\Debug\netstandard2.0\CSVProcessor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\obj\Debug\netstandard2.0\CSVProcessor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\obj\Debug\netstandard2.0\CSVProcessor.DataAccess.AssemblyInfo.cs
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\bin\Debug\netstandard2.0\CSVProcessor.DataAccess.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\bin\Debug\netstandard2.0\CSVProcessor.Domain.dll
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\bin\Debug\netstandard2.0\CSVProcessor.Domain.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\obj\Debug\netstandard2.0\CSVProcessor.DataAccess.csproj.CopyComplete
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\obj\Debug\netstandard2.0\CSVProcessor.DataAccess.dll
+C:\Users\MANCON\Downloads\Personal\PruebaAnalyticalways\CSVProcessor\CSVProcessor.DataAccess\obj\Debug\netstandard2.0\CSVProcessor.DataAccess.pdb
